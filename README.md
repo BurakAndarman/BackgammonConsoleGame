@@ -2,7 +2,7 @@
 Backgammon game that can be playable on console.
 
 # Things you have to know 👇
-► Program creates two files on the purpose of saving game as game begins.You can see them in the directory where you put source code file.
+► Program creates two files on the purpose of saving game as game begins.These files are being updated after every turn.
 
 ► There isn't an option to play against AI.
 
